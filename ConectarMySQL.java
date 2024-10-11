@@ -1,4 +1,4 @@
-public class ConectarMySQL {
+public class ConectarMySQL {//comentari de Pedro
     public static void main(String[] args) {
         // Cargar el controlador JDBC de MySQL
         try {
